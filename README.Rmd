@@ -20,6 +20,10 @@ __Note__: This R package is not mean to be "serious". It's just for teaching pur
 
 This is an R package that gives `sqrt()` friends by providing other power functions.
 
+# Contribution
+
+For homework 7, I have developed a function `BoxCoxTrans()` that transforms data using a Box-Cox Transformation.
+
 ## Installation
 
 You can install powers from github with:
@@ -35,6 +39,7 @@ See the vignette for more extensive use, but here's an example:
 
 ```{r example}
 powers::square(2)
+
 ```
 
 ## For Developers

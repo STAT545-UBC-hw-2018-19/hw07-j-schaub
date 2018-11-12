@@ -9,6 +9,11 @@ powers
 
 This is an R package that gives `sqrt()` friends by providing other power functions.
 
+Contribution
+============
+
+For homework 7, I have developed a function `BoxCoxTrans()` that transforms data using a Box-Cox Transformation.
+
 Installation
 ------------
 
