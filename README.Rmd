@@ -22,7 +22,9 @@ This is an R package that gives `sqrt()` friends by providing other power functi
 
 # Contribution
 
-For homework 7, I have developed a function `BoxCoxTrans()` that transforms data using a Box-Cox Transformation.
+For homework 7, I have developed a function `BoxCoxTrans()` that transforms data using a Box-Cox Transformation. 
+The function exists [here](https://github.com/STAT545-UBC-students/hw07-j-schaub/blob/master/R/CoxBoxTransform.R). 
+Please see the [vignette](https://github.com/STAT545-UBC-students/hw07-j-schaub/blob/master/vignettes/using_powers.Rmd) for a usage example and the [document](https://github.com/STAT545-UBC-students/hw07-j-schaub/blob/master/man/BoxCoxTrans.Rd) for a description of the function.
 
 ## Installation
 
